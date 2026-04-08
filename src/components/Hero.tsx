@@ -47,7 +47,7 @@ export const Hero = () => {
               View My Work
             </a>
             <a
-              href="#"
+              href="https://drive.google.com/file/d/16nlSeXK4XcUAKglhUXt--cFcNuyGI8zR/view?usp=sharing"
               className="rounded-full border border-emerald-200/40 bg-white/10 px-6 py-3 text-sm font-semibold text-white transition hover:bg-white/20"
               target="_blank"
               rel="noopener noreferrer"
